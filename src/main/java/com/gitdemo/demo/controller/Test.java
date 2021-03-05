@@ -15,7 +15,7 @@ public class Test {
     @RequestMapping("/test")
     public String sample()
     {
-        return "测试!!!";
+        return "测试123456!!!";
     }
 
 }
